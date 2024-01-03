@@ -20,5 +20,5 @@ https://mybinder.org/v2/gh/apraetorius/Multimedia-fugacity-models-forTeaching_Le
 
 ## The model: 
 We will work with the following model:</br></br>
-![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level1/blob/main/img/LEVEL1_Figure.png?raw=true)
+![alt text](https://github.com/apraetorius/Multimedia-fugacity-models-forTeaching_Level1/blob/main/img/LEVEL1_Figure.png?raw=true)
 
